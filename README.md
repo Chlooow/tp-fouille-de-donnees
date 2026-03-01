@@ -16,14 +16,12 @@ python -m venv env310
 .\env310\Scripts\activate
 ```
 > MacOS/Linux
-### Créer l'environnement
-python3 -m venv env310
-
-### L'activer
-source env310/bin/activate
-
-### Installer les dépendances
-pip install -r requirements.txt
+Créer l'environnement
+```python3 -m venv env310```
+L'activer
+```source env310/bin/activate```
+Installer les dépendances
+```pip install -r requirements.txt```
 
 3. Lancement du script
 ```bash
