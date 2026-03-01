@@ -3,11 +3,11 @@ Ce projet vise à résumer le chapitre 27 de *Léon l'Africain* d'Amin Maalouf e
 ## Comment récupérer le TP ?
 
 1. **Cloner le projet** :
-   ```bash
-   git clone [https://github.com/Chlooow/tp-fouille-de-donnees.git](https://github.com/Chlooow/tp-fouille-de-donnees.git)
-   cd tp-fouille-de-donnees
-   git checkout TP3-BERT
-   ```
+```bash
+git clone [https://github.com/Chlooow/tp-fouille-de-donnees.git](https://github.com/Chlooow/tp-fouille-de-donnees.git)
+cd tp-fouille-de-donnees
+git checkout TP3-BERT
+```
 2. Creation de l'environnement
 ```bash
 python -m venv env310
