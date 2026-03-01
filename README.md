@@ -30,6 +30,6 @@ python src/test_barthez.py
 ```
 autre méthode :
 
-Changer de branche : Clique sur le bouton qui affiche main (à gauche) et sélectionne la branche `TP3-BERT`.
-Télécharger : Clique sur le bouton vert "Code", puis choisis "Download ZIP".
-Extraire : Décompresse le fichier ZIP sur ton ordinateur.
+- Changer de branche : Clique sur le bouton qui affiche main (à gauche) et sélectionne la branche `TP3-BERT`.
+- Télécharger : Clique sur le bouton vert "Code", puis choisis "Download ZIP".
+- Extraire : Décompresse le fichier ZIP sur ton ordinateur.
