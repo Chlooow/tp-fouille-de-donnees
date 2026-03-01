@@ -16,6 +16,7 @@ python -m venv env310
 .\env310\Scripts\activate
 ```
 > MacOS/Linux
+
 Créer l'environnement
 ```python3 -m venv env310```
 L'activer
